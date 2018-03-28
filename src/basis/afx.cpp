@@ -442,7 +442,7 @@ __finish:
   return statu ;
 }
 
-int sigignore(int sig)
+int xsigignore(int sig)
 {
     struct sigaction sa;
 	memset(&sa, 0, sizeof(sa));

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-    <name>node_test</name>
+    <name>node_motion</name>
     <version>0.0.0</version>
     <description>Package containing examples of how to use the rcl API.</description>
     <maintainer email="anxan524@126.com">Young.Geo</maintainer>
